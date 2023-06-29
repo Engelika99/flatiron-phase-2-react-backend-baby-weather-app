@@ -18,15 +18,165 @@
       "id": 3,
       "date": "2023-06-25",
       "weather": "rainy",
-      "clothing": "Would be best to stay in doors with baby today. Rain resistant jacket and umbrella if it becomes neccesary for an outing with baby",
+      "clothing": "Would be best to stay indoors with baby today. Rain-resistant jacket and umbrella if it becomes necessary for an outing with baby",
       "image": "https://images.unsplash.com/photo-1527766833261-b09c3163a791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": 4,
       "date": "2023-06-26",
       "weather": "snowy",
-      "clothing": "Would be best to stay in doors with baby. Large warm coat, warm thick hat, and thick socks in baby's warm boots, if it becomes neccesary for an outing with baby",
+      "clothing": "Would be best to stay indoors with baby. Large warm coat, warm thick hat, and thick socks in baby's warm boots if it becomes necessary for an outing with baby",
       "image": "https://images.unsplash.com/photo-1516715094483-75da7dee9758?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    },
+    {
+      "date": "2024-07-24",
+      "weather": "Sunny",
+      "clothing": "Sunblock, hat with wide brim, light clothing",
+      "id": 5
+    },
+    {
+      "date": "2024-07-24",
+      "weather": "Sunny",
+      "clothing": "Sunblock, hat with wide brim, light clothing",
+      "id": 6
+    },
+    {
+      "date": "2024-07-24",
+      "weather": "Sunny",
+      "clothing": "Sunblock, hat with wide brim, light clothing",
+      "id": 7
+    },
+    {
+      "date": "2023-07-11",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 8
+    },
+    {
+      "date": "2023-07-11",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 9
+    },
+    {
+      "date": "2023-07-11",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 10
+    },
+    {
+      "date": "2023-07-11",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 11
+    },
+    {
+      "date": "2023-07-11",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 12
+    },
+    {
+      "date": "2023-07-11",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 13
+    },
+    {
+      "date": "2023-07-29",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 14
+    },
+    {
+      "date": "2023-07-29",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 15
+    },
+    {
+      "date": "2023-07-31",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 16
+    },
+    {
+      "date": "2023-07-31",
+      "weather": "cloudy",
+      "clothing": "Bring umbrella",
+      "id": 17
+    },
+    {
+      "date": "2023-07-03",
+      "weather": "Rainy cold",
+      "clothing": "Wear waterproof coat",
+      "image": "",
+      "id": 18
+    },
+    {
+      "date": "2023-07-22",
+      "weather": "snowing",
+      "clothing": "large coat",
+      "image": "",
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "date": "2023-07-24",
+      "weather": "Sunny some clouds",
+      "clothing": "Light jacket",
+      "image": "https://images.unsplash.com/photo-1609881142760-298c2e76725b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1335&q=80",
+      "id": 23
+    },
+    {
+      "date": "2023-08-03",
+      "weather": "Snow",
+      "clothing": "hat and gloves",
+      "image": "https://images.unsplash.com/photo-1643971585868-a6a1eaa66419?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "id": 24
+    },
+    {
+      "date": "2023-07-16",
+      "weather": "Cold wind and sunny",
+      "clothing": "Long sleeves",
+      "image": "https://images.unsplash.com/photo-1598600815245-f806c8259e1e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+      "id": 25
+    },
+    {
+      "date": "2023-06-24",
+      "weather": "Great day for the beach",
+      "clothing": "light clothing",
+      "image": "https://images.unsplash.com/photo-1586088305357-9fd26dbb2224?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHRoZSUyMGJlYWNofGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "id": 26
+    },
+    {
+      "date": "2023-07-10",
+      "weather": "sunny",
+      "clothing": "sunblock",
+      "image": "https://images.unsplash.com/photo-1473116763249-2faaef81ccda?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1496&q=80",
+      "id": 27
+    },
+    {
+      "date": "2023-07-02",
+      "weather": "rain",
+      "clothing": "Umbrella",
+      "image": "https://images.unsplash.com/photo-1428592953211-077101b2021b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "id": 28
+    },
+    {
+      "date": "2023-07-03",
+      "weather": "rainy",
+      "clothing": "stay inside",
+      "image": "",
+      "id": 29
     }
   ]
 }
