@@ -1,0 +1,13 @@
+{
+  "name": "flatiron-phase-2-react-backend-baby-weather-app",
+  "version": "1.0.0",
+  "description": "backend code for a weather app",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "author": "Alexis E. Beauregard",
+  "license": "MIT"
+}
