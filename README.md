@@ -4,6 +4,7 @@ https://github.com/Engelika99/flatiron-phase-2-project-baby-weather-app
 
 # JSON Server Template
 ## Setup
+* I used port 3001
 Fork and clone this repo. Then install the dependencies by running:
 
 npm install
@@ -37,7 +38,7 @@ To run your server in development mode, run:
 ### npm run dev
 While running in development mode, the server will re-load any time you make changes to the `db.json` file, so you can test our your seed data.
 
-While your server is running, you can make requests to http://localhost:3000. Check it out in the browser to make sure your server works!
+While your server is running, you can make requests to http://localhost:3001. Check it out in the browser to make sure your server works!
 
 ## Deploying
 
@@ -75,3 +76,5 @@ The Fashionable In Any Weather app is open source and available under the MIT Li
 
 ### Need help understanding useState? Check out my blog here:
 https://medium.com/@engelikaking99/simple-to-understand-information-on-usestate-f43672a4ac06
+### Check out this video demonstration here: 
+https://youtu.be/GN53wAe6XXQ

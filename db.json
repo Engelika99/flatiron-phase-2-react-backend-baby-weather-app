@@ -177,6 +177,34 @@
       "clothing": "stay inside",
       "image": "",
       "id": 29
+    },
+    {
+      "date": "2023-07-29",
+      "weather": "Bright and sunny",
+      "clothing": "Party outfit",
+      "image": "",
+      "id": 30
+    },
+    {
+      "date": "2023-07-20",
+      "weather": "Snow ",
+      "clothing": "Coat",
+      "image": "https://images.unsplash.com/photo-1516715094483-75da7dee9758?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+      "id": 31
+    },
+    {
+      "date": "2023-07-18",
+      "weather": "cloudy",
+      "clothing": "light jacket ",
+      "image": "https://images.unsplash.com/photo-1501630834273-4b5604d2ee31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "id": 32
+    },
+    {
+      "date": "2023-07-15",
+      "weather": "Sunny ",
+      "clothing": "light clothing",
+      "image": "https://images.unsplash.com/photo-1581347312461-eb6c267b5c12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "id": 33
     }
   ]
 }
