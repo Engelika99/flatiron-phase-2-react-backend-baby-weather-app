@@ -1,0 +1,39 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "date": "2023-06-23",
+      "weather": "sunny",
+      "clothing": "Plenty of shade and sunblock. Clothe baby in light colors and fabrics",
+      "image": "https://images.unsplash.com/photo-1581347312461-eb6c267b5c12?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+      "id": 2,
+      "date": "2023-06-24",
+      "weather": "cloudy",
+      "clothing": "Light jacket or sweater. Keep an umbrella handy for unexpected light showers",
+      "image": "https://images.unsplash.com/photo-1501630834273-4b5604d2ee31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 3,
+      "date": "2023-06-25",
+      "weather": "rainy",
+      "clothing": "Would be best to stay indoors with baby today. Rain-resistant jacket and umbrella if it becomes necessary for an outing with baby",
+      "image": "https://images.unsplash.com/photo-1527766833261-b09c3163a791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+      "id": 4,
+      "date": "2023-06-26",
+      "weather": "snowy",
+      "clothing": "Would be best to stay indoors with baby. Large warm coat, warm thick hat, and thick socks in baby's warm boots if it becomes necessary for an outing with baby",
+      "image": "https://images.unsplash.com/photo-1516715094483-75da7dee9758?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80"
+    },
+    {
+      "date": "2023-07-14",
+      "weather": "rain",
+      "clothing": "waterproof jacket ",
+      "image": "https://images.unsplash.com/photo-1527766833261-b09c3163a791?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+      "id": 5
+    }
+  ]
+}
